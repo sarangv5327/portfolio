@@ -76,11 +76,11 @@ h1 {
 }
   
 .aboutmepic {
-
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    height: 75%;
 }
 .picone {
   height: 25em;
@@ -101,9 +101,10 @@ h1 {
 	margin-right: 5px;
 }
 .project1pic {
-	clear: both;
-	padding-left: 23em;
-	height: 20em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .project2pic {
 	clear: both;
@@ -207,3 +208,7 @@ h1 {
 	color: white;
 }
 
+#googleForm {
+		margin-left: auto;
+	margin-right: auto;
+}
